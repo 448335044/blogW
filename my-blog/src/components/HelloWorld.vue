@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    hello 老王
+    hello 老王.
   </div>
 </template>
 
