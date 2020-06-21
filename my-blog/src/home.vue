@@ -2,7 +2,6 @@
   <div class="page">
     <div class='header'>
         <div>
-            <img src="" alt="">
             <span>博客王</span>
         </div>
         <div class="nav">
@@ -21,9 +20,7 @@
 <script>
 export default {
   name: 'home',
-  props: {
-    msg: String
-  }
+
 }
 </script>
 
